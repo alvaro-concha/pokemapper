@@ -1,7 +1,7 @@
-<img align="right"
+<img align="denter"
     src="logo.svg"
     alt="Pokémapper"
-    width="30%" />
+    width="100%" />
 
 # Pokémapper
 
